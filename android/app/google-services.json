@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582627307086",
+    "project_id": "hatha-a168c",
+    "storage_bucket": "hatha-a168c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582627307086:android:3eff434d30b0e12cce1d1f",
+        "android_client_info": {
+          "package_name": "com.example.spare_parts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3lZ6WLosiVB6R4cXjI7bLYYzdpTpdIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
